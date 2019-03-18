@@ -5,7 +5,7 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Ceci est notre application maxime. met 20/20</Text>
+        <Text>Ceci est notre application maxime.</Text>
       </View>
     );  
   }
