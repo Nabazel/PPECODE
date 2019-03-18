@@ -5,9 +5,9 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Ceci est notre application maxime.</Text>
+        <Text>chut.</Text>
       </View>
-    );  
+    );
   }
 }
 
